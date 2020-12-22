@@ -1,3 +1,3 @@
 # Search Movies App using React
 
-You can see this project online at http://fmarilao.tech/searchmovies
+view online at http://fmarilao.tech/searchmovies
